@@ -14,4 +14,5 @@ git branch -M main
 git remote add origin https://github.com/Mordecaikama/another.git
 git push -u origin main
 
-
+use git push -f origin main to push into a directory forcing it into the directory
+not using -u 
