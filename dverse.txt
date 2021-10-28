@@ -1,0 +1,17 @@
+shop[link dropdown]
+	male [cloth[piece] dresses footwears[category] ]
+ 
+	female [cloth [piece] dresses footwears[category]]
+ 
+	kids	[dropdown boys n Girls]
+	others [chair dinning table,cap]
+git remote add origin https://github.com/Mordecaikama/KentsApp.git
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Mordecaikama/another.git
+git push -u origin main
+
+
