@@ -1,0 +1,33 @@
+classes and their names
+
+
+for layouts
+container
+Layout
+gridLayout
+columnLayout
+rowLayout
+
+bigtext
+smalltext
+button
+
+for info
+info
+infohead
+infoparagraph
+infofoot
+
+ind product
+title
+desc
+rating
+price
+color
+stock
+
+for cards
+card
+cardheader
+cardbody
+cardfooter

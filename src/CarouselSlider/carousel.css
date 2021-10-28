@@ -1,0 +1,45 @@
+.slick-arrow.slick-prev,
+.slick-arrow.slick-next {
+  background: rgb(72, 87, 219);
+  width: 47px;
+  height: 104px;
+  z-index: 1;
+  padding: '10px';
+  display: none;
+
+  /* left: 0; */
+}
+
+.slick-arrow.slick-prev {
+  top: 40%;
+  left: 0;
+  border-top-right-radius: 7px;
+  border-bottom-right-radius: 7px;
+}
+.slick-arrow.slick-next {
+  top: 40%;
+  right: 0;
+  border-top-left-radius: 7px;
+  border-bottom-left-radius: 7px;
+}
+
+/* this targets the classname of the nextarrow.js */
+.slick-arrow.normalArrow {
+  top: 50%;
+  right: 0;
+  border-top-left-radius: 7px;
+  border-bottom-left-radius: 7px;
+}
+
+/* this targets the classname of the prevarrow.js */
+.slick-arrow.leftarrow {
+  top: 50%;
+  left: 0;
+  border-top-right-radius: 7px;
+  border-bottom-right-radius: 7px;
+}
+
+/* .slick-prev::before,
+.slick-next::before {
+  content: '';
+} */
